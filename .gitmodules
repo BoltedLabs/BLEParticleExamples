@@ -1,0 +1,3 @@
+[submodule "BLEted"]
+	path = BLEted
+	url = git@github.com:BoltedLabs/BLEted.git

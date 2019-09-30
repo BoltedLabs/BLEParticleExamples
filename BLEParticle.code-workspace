@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "BLEClicker"
+		},
+		{
+			"path": "BLELightReader"
+		},
+	],
+	"settings": {
+		"cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}"
+	}
+}
